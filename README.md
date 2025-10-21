@@ -55,8 +55,8 @@ The system uses LangGraph to orchestrate the search process:
 
 1.  **Clone Repository**
     ```bash
-    git clone <repository-url>
-    cd openprobe_dev
+    git clone https://github.com/Open-Probe/Open-Probe.git
+    cd Open-Probe
     ```
 
 2.  **Install Dependencies**
